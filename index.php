@@ -23,6 +23,12 @@
         align-items: center;
         justify-content: center;
       }
+      .textoInformativo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px;
+      }
     </style>
   </head>
 
@@ -54,8 +60,14 @@
                 </div>
 
                 <?php if(isset($_GET['login']) && $_GET['login'] == 'erro') { ?> 
-                    <div class="text-danger">
+                    <div class="text-danger textoInformativo">
                       Usuário ou senha inválido(s)
+                    </div>
+                <?php } ?> 
+
+                <?php if(isset($_GET['login']) && $_GET['login'] == 'erro2') { ?> 
+                    <div class="text-danger textoInformativo">
+                      Realize o login para continuar navegando
                     </div>
                 <?php } ?> 
                 
