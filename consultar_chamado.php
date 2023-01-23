@@ -5,7 +5,7 @@
   //array que vai conter os chamados
   $chamados = array();
 
-  $arquivo = fopen('arquivo.txt', 'r');//abrir o arquivo.txt
+  $arquivo = fopen('../../YourHelp/arquivo.txt', 'r');//abrir o arquivo.txt
 
   while(!feof($arquivo)) { // testa pelo fim de um arquivo
 
