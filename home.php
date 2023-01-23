@@ -1,4 +1,7 @@
-<?php require_once "validador_acesso.php" ?> <!-- require_once para que se haja qualquer problema na recuperação do script, ocorra um fatal error -->
+<?php require_once "validador_acesso.php"; 
+
+
+?> <!-- require_once para que se haja qualquer problema na recuperação do script, ocorra um fatal error -->
 
 <html>
   <head>

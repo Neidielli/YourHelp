@@ -1,2 +1,3 @@
-Notebook n lga#Hardware#kkkkkkkkkkkkk
-impressora#Impressora#kkkkkkkkkkkkk
+3#Chamado do Joao#Software#bla bla bla
+3##Criação Usuário#
+4#Chamado da Maria#Rede#rede esta pessima
