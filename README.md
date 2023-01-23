@@ -1,5 +1,5 @@
 # 👩🏽‍💻 Your Help:
- Game web para matar baratinhas
+App para help desk
  
 # 🎯 Objetivo:
  O objetivo deste projeto é treinar o aprendizado de PHP.
