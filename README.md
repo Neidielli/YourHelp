@@ -11,7 +11,10 @@ App para help desk
 * FrameWork: Bootstrap; 
 
 # ⚡ Melhorias:
-
+ * A forma como o chamado é escrito no arquivo.txt;
+ * Feedback visual de chamado aberto;
+ * Lógica da exibição dos chamados.
+ 
 # ⚙️ Execução:
 
  
